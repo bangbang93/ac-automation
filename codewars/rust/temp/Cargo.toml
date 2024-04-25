@@ -1,0 +1,13 @@
+workspace = { members = ["make-the-deadfish-swim-51e0007c1f9378fa810002a9"] }
+[package]
+name = "temp"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "temp"
+path = "src/main.rs"
