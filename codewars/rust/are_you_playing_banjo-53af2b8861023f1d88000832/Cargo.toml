@@ -1,0 +1,12 @@
+[package]
+name = "are_you_playing_banjo-53af2b8861023f1d88000832"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "are_you_playing_banjo-53af2b8861023f1d88000832"
+path = "main.rs"
