@@ -1,0 +1,12 @@
+[package]
+name = "make_negative-55685cd7ad70877c23000102"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "make_negative"
+path = "src/main.rs"
